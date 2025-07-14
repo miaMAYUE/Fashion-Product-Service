@@ -1,0 +1,13 @@
+# environment
+venv/
+
+# test
+local_test.ipynb
+
+# other
+*.zip
+*.csv
+data/
+images/
+other/
+.DS_Store
